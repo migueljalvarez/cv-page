@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', serif;
   padding-top: 54px;
-  color: #868e96;
+  color: #242527;
   text-align: justify;
 }
 
@@ -132,7 +132,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color:  #2A303D !important;
+  background-color:  #020a13 !important;
 }
 
 .text-primary {
